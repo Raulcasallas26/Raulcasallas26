@@ -2,7 +2,7 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Quien soy!**
 
 - Apasionado por el desarrollo web, creando soluciones innovadoras y eficientes usando tecnologías HTML, CSS, JavaScript y el framework moderno Vue3.
 - Iniciándome en marketing digital, aplicando estrategias de SEO, SEM y gestión de redes sociales con Google Analytics y Hootsuite para mejorar la presencia en línea y el crecimiento de las marcas
@@ -14,32 +14,32 @@
 <p align="center">
 
 - **Desarrollo Web**:
-    [![My Skills](https://skillicons.dev/icons?i=git,wordpress,html,js,nodejs,discord,pinia,figma,npm,vue,vite,postman,flutter,vscode,linkedin&perline=6)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,wordpress,html,js,nodejs,discord,pinia,figma,npm,vue,vite,postman,flutter,vscode&perline=8)](https://skillicons.dev)
 
 <br>   
     
 - **Marketing**:
- [![My Skills](https://skillicons.dev/icons?i=gcp,gmail,instagram,linkedin&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=gcp,gmail,instagram&perline=8)](https://skillicons.dev)
 
    
 
 <br>
 
 - **Base de datos**:
- [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,php,postgres,linkedin&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,php,postgres&perline=6)](https://skillicons.dev)
 
     
     
 <br>
 
 - **otros**:
- [![My Skills](https://skillicons.dev/icons?i=windows,kali,linux,pycharm,py&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=windows,kali,linux,androidstudio,pycharm,py,linkedin&perline=6)](https://skillicons.dev)
 
 <br>
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estado de GitHub </b>
 <br>
 
 <div align="center">
